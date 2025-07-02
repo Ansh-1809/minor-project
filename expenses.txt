@@ -1,0 +1,3 @@
+Milk,35.0
+BREAD,55.0
+COLD DRINK,20.0
